@@ -1,0 +1,61 @@
+﻿Order_ID,Customer_Name,City,Customer_Segment,Product_Category,Order_Month,Delivery_Days,Order_Value,Discount_Percent,Profit,Customer_Rating,Payment_Mode,Returned
+O001,Aarav Sharma,Mumbai,Consumer,Electronics,January,3,12500,5,1800,4,Credit Card,No
+O002,Priya Mehta,Delhi,Corporate,Clothing,January,5,3200,10,420,3,UPI,No
+O003,Rohan Verma,Bangalore,Home Office,Furniture,February,7,18900,0,3100,5,Net Banking,No
+O004,Sneha Patel,Ahmedabad,Consumer,Books,February,2,850,15,95,4,UPI,No
+O005,Karan Singh,Mumbai,Consumer,Electronics,February,4,22000,8,2600,2,COD,Yes
+O006,Divya Nair,Chennai,Corporate,Food,March,1,1200,0,310,5,Debit Card,No
+O007,Amit Kumar,Hyderabad,Home Office,Electronics,March,2,35000,5,4200,5,Credit Card,No
+O008,Meera Joshi,Pune,Consumer,Clothing,March,6,2800,20,120,2,COD,Yes
+O009,Siddharth Rao,Bangalore,Corporate,Furniture,April,8,41000,0,6800,4,Net Banking,No
+O010,Anjali Gupta,Delhi,Home Office,Books,April,3,1500,10,210,5,UPI,No
+O011,Nikhil Shah,Surat,Consumer,Food,April,1,950,0,240,4,UPI,No
+O012,Ritu Dwivedi,Mumbai,Corporate,Electronics,May,2,28000,5,3300,5,Credit Card,No
+O013,Vikram Malhotra,Bangalore,Consumer,Clothing,May,4,4100,15,380,3,Debit Card,No
+O014,Nandini Reddy,Hyderabad,Home Office,Food,May,1,1800,0,450,4,COD,No
+O015,Aditya Bhatt,Mumbai,Corporate,Furniture,June,6,55000,0,9100,5,Net Banking,No
+O016,Pooja Iyer,Chennai,Consumer,Books,June,3,720,20,40,2,UPI,Yes
+O017,Rahul Tiwari,Delhi,Corporate,Electronics,June,2,19000,8,2100,4,Credit Card,No
+O018,Swati Bose,Kolkata,Consumer,Clothing,July,5,3500,10,290,3,COD,No
+O019,Arjun Pillai,Bangalore,Home Office,Electronics,July,2,42000,3,5800,5,Net Banking,No
+O020,Kavita Desai,Pune,Corporate,Furniture,July,7,32000,0,5100,4,Credit Card,No
+O021,Manish Agarwal,Delhi,Consumer,Food,August,1,1100,5,260,4,UPI,No
+O022,Sunita Choudhary,Jaipur,Home Office,Clothing,August,4,6200,10,720,4,Debit Card,No
+O023,Deepak Mishra,Lucknow,Consumer,Books,August,3,650,25,20,1,COD,Yes
+O024,Leena Kapoor,Mumbai,Corporate,Electronics,September,2,51000,5,6200,5,Credit Card,No
+O025,Harsh Vardhan,Hyderabad,Home Office,Furniture,September,8,28500,0,4400,5,Net Banking,No
+O026,Rekha Pandey,Nagpur,Consumer,Food,September,1,880,0,200,3,UPI,No
+O027,Sameer Khan,Delhi,Corporate,Clothing,October,3,8900,10,1050,4,Credit Card,No
+O028,Nisha Bajaj,Bangalore,Consumer,Electronics,October,4,16500,10,1700,3,Debit Card,No
+O029,Prakash Nambiar,Chennai,Home Office,Books,October,2,2100,15,270,4,UPI,No
+O030,Tanvi Saxena,Mumbai,Corporate,Furniture,November,5,68000,0,11200,5,Net Banking,No
+O031,Gaurav Shukla,Delhi,Consumer,Food,November,1,1350,0,320,4,COD,No
+O032,Priyanka Jain,Ahmedabad,Home Office,Clothing,November,4,5400,15,520,4,Debit Card,No
+O033,Rohit Bansal,Chandigarh,Consumer,Electronics,December,3,9800,15,700,2,COD,Yes
+O034,Simran Kaur,Amritsar,Corporate,Books,December,2,1900,10,230,4,UPI,No
+O035,Vikas Dubey,Bangalore,Home Office,Furniture,December,6,47000,0,7500,5,Credit Card,No
+O036,Anita Sinha,Patna,Consumer,Food,January,1,750,0,170,3,COD,No
+O037,Sandeep Garg,Delhi,Corporate,Electronics,January,2,62000,3,8400,5,Net Banking,No
+O038,Pallavi Sharma,Pune,Consumer,Clothing,February,5,2900,20,80,2,UPI,Yes
+O039,Mayank Srivastava,Lucknow,Home Office,Books,February,3,1200,10,140,3,Debit Card,No
+O040,Rashmi Verma,Bhopal,Corporate,Furniture,March,7,38000,0,6100,4,Credit Card,No
+O041,Kunal Mehrotra,Bangalore,Consumer,Electronics,March,3,14000,8,1500,4,UPI,No
+O042,Bharti Puri,Chennai,Home Office,Food,April,1,1600,0,390,5,Debit Card,No
+O043,Nitin Saxena,Delhi,Corporate,Clothing,April,4,11000,10,1300,4,Credit Card,No
+O044,Archana Nair,Mumbai,Consumer,Furniture,May,8,25000,5,3800,3,COD,No
+O045,Puneet Grover,Chandigarh,Home Office,Books,May,2,980,20,60,3,UPI,No
+O046,Vandana Joshi,Surat,Consumer,Electronics,June,5,7200,20,350,1,COD,Yes
+O047,Sushil Pandey,Hyderabad,Corporate,Furniture,June,6,72000,0,12500,5,Net Banking,No
+O048,Menaka Rao,Bangalore,Home Office,Clothing,July,3,7800,10,890,4,Credit Card,No
+O049,Bijay Kumar,Kolkata,Consumer,Food,July,1,1050,5,240,4,UPI,No
+O050,Falak Sheikh,Mumbai,Corporate,Electronics,August,2,33000,5,4100,5,Debit Card,No
+O051,Tarun Malviya,Delhi,Consumer,Books,August,3,1400,15,160,4,UPI,No
+O052,Hema Nambiar,Chennai,Home Office,Clothing,September,4,9200,10,1080,4,Credit Card,No
+O053,Akash Yadav,Indore,Consumer,Food,September,1,680,0,150,3,COD,No
+O054,Roshni Verma,Mumbai,Corporate,Furniture,October,7,58000,0,9600,5,Net Banking,No
+O055,Devraj Pillai,Bangalore,Consumer,Electronics,October,3,21000,8,2400,4,Debit Card,No
+O056,Alok Sharma,Jaipur,Home Office,Books,November,2,3200,10,380,4,UPI,No
+O057,Renu Tiwari,Delhi,Corporate,Food,November,1,4200,0,980,5,Credit Card,No
+O058,Santosh Mishra,Bhopal,Consumer,Clothing,December,6,3600,25,60,2,COD,Yes
+O059,Swapna Reddy,Hyderabad,Home Office,Electronics,December,2,48000,3,6700,5,Net Banking,No
+O060,Girish Kamath,Mumbai,Corporate,Furniture,December,5,85000,0,14200,5,Credit Card,No
